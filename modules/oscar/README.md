@@ -58,6 +58,7 @@ The operator simply points the antenna at the satellite marker and works the pas
 
 * Raspberry Pi Zero 2 W (recommended)
 * GPIO Header Installed
+* 3.5 Inch 480x320 Touch Screen TFT LCD SPI Display
 * MicroSD Card (64GB recommended)
 * 5V USB Power Source
 
@@ -65,7 +66,7 @@ The operator simply points the antenna at the satellite marker and works the pas
 
 Tested with:
 
-* 3.5 Inch 480x320 Touch Screen TFT LCD SPI Display Panel
+* 3.5 Inch 480x320 Touch Screen TFT LCD SPI Display
 
 The display connects directly to the GPIO header and operates as the primary field display.
 
