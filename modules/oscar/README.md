@@ -179,7 +179,7 @@ Copy files:
 
 ```text
 glyph-oscar.py
-glyph-compass.png
+~/images/glyph-compass.png
 ```
 
 Make executable:
