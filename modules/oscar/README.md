@@ -1,6 +1,4 @@
----
-
-#Glyph OSCAR
+# Glyph OSCAR
 
 **Portable Amateur Satellite Tracking for the Field**
 
