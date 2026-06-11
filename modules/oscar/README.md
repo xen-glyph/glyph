@@ -385,7 +385,7 @@ before transmitting.
 
 73,
 
-**Caleb // W4XEN)**
+**Caleb // W4XEN**
 
 Creator of Glyph Field Pi
 
